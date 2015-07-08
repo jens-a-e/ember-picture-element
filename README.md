@@ -1,5 +1,9 @@
 # Ember picture-element addon
 
+**!!WARNING!! This is totally work in progress!**
+
+PR's welcome :-)
+
 TODO Privide better intro!
 
 Provides a picture element helper to use as:
